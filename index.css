@@ -1,0 +1,128 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Lato', sans-serif;
+}
+
+body{
+	background-image: url(https://cdn.pixabay.com/photo/2017/09/03/17/26/woman-2711279_640.jpg);
+	background-position: center center;
+    background-size: cover;
+    background-repeat: repeat;
+    text-align: center;
+    height: 100vh;
+}
+
+#nav {
+	background-color: darkgreen;
+
+}
+
+
+#landing{
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://cdn.pixabay.com/photo/2013/10/02/23/03/dog-190056_640.jpg);
+	background-position: center center;
+    background-size: cover;
+    background-repeat: repeat;
+    text-align: center;
+    height: 100vh;
+  
+    color: white;
+    margin-top: 5rem;
+}
+
+
+#title-1 {
+	font-family: 'Alumni Sans Collegiate One', sans-serif;
+	font-size: 3rem;
+	margin-top: 2rem;
+
+}
+
+
+
+#projects{
+	background-color: rgba(173, 216, 230, 0.5);
+	height: 100vh;
+	
+	margin-top: 3rem;
+	width: 80wv;
+}
+
+#title-2{
+	font-family: 'Oleo Script', serif;
+	font-size: 3rem ;
+	color: white;
+	
+	
+	
+}
+
+.dogname{
+	text-transform: uppercase !important;
+	font-size: 1rem;
+}
+
+.dogdis{
+	text-align: justify !important;
+}
+
+.dogdis1{
+	padding-top: 1rem;
+}
+
+#contact{
+	background-color: rgba(255, 0, 0, 0.3);
+	height: 100vh;
+	
+	margin-top: 3rem;
+}
+
+.form-name{
+	font-size: 1rem;
+}
+
+#title-3{
+	font-family: 'Oleo Script', serif;
+	font-size: 3rem ;
+	
+}
+
+
+
+
+
+#tools{
+	background-color: rgba(255, 165, 0, 0.5);
+	height: 80vh;
+	margin-bottom: 4rem;
+	margin-top: 3rem;
+	color: white;
+	
+}	
+
+
+
+#title-4{
+	font-family: 'Oleo Script', serif;
+	font-size: 3rem ;
+
+		
+}
+
+.tools2{
+	background-color: rgba(0, 0, 0, 0.3);
+
+	
+}
+
+
+#footer{
+	background-color: darkgreen;
+	color: whitesmoke;
+	text-align: center;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	
+}
